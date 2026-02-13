@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/39475ebb-4db4-4c14-81fe-971121edae69" />
+
 # Customer Transaction Prediction
 
 A machine learning project to predict customer transaction behavior in the banking domain using supervised learning techniques.
